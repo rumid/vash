@@ -1,0 +1,4 @@
+rootProject.name = 'vash'
+include 'domain'
+include 'application'
+
