@@ -1,4 +1,4 @@
-package com.rumid.vash.domain.gamesgetter;
+package com.rumid.vash.domain.gamesfinder;
 
 @FunctionalInterface
 interface GameDetailsProvider {
